@@ -1,0 +1,2479 @@
+{
+  "count": 103,
+  "items": [
+    {
+      "id": 12,
+      "name": "BEETNUT Europaallee",
+      "first_offer_description": "Profitiere von 25% Rabatt auf dein Frühstück oder Brunch von BEETNUT. Start your day smoothly!",
+      "latitude": 47.3776411,
+      "longitude": 8.533411,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x57u6zr0tlgdloypini0zi35p39z/ewUjJVD4AACGQ5i3XcMFTg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x57u6zr0tlgdloypini0zi35p39z/ewUjJVD4AACGQ5i3XcMFTg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 13,
+      "name": "BEETNUT Bleicherweg",
+      "first_offer_description": "Profitiere von 25% Rabatt auf dein Frühstück oder Brunch von BEETNUT. Start your day smoothly!",
+      "latitude": 47.3678239,
+      "longitude": 8.5342472,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x57u6zr0tlgdloypini0zi35p39z/ewUjJVD4AACGQ5i3XcMFTg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x57u6zr0tlgdloypini0zi35p39z/ewUjJVD4AACGQ5i3XcMFTg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 18,
+      "name": "The Lemon Grass - Stampfenbachstrasse",
+      "first_offer_description": "Der Gutschein muss bereits vor der Bestellung vorgezeigt werden. Das Angebot gilt nicht am Standort in Wetzikon.",
+      "latitude": 47.3857229,
+      "longitude": 8.5395166,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/izl4z8zcj0ds57fruo44ri8o50qw/Cu96nlcLfM9RtRO9etYWnQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/izl4z8zcj0ds57fruo44ri8o50qw/Cu96nlcLfM9RtRO9etYWnQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 19,
+      "name": "The Lemon Grass - Limmatstrasse",
+      "first_offer_description": "Der Gutschein muss bereits vor der Bestellung vorgezeigt werden. Das Angebot gilt nicht am Standort in Wetzikon.",
+      "latitude": 47.3867984,
+      "longitude": 8.5284236543874,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/izl4z8zcj0ds57fruo44ri8o50qw/Cu96nlcLfM9RtRO9etYWnQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/izl4z8zcj0ds57fruo44ri8o50qw/Cu96nlcLfM9RtRO9etYWnQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 20,
+      "name": "The Lemon Grass - Universitätsstrasse",
+      "first_offer_description": "Der Gutschein muss bereits vor der Bestellung vorgezeigt werden. Das Angebot gilt nicht am Standort in Wetzikon.",
+      "latitude": 47.379692,
+      "longitude": 8.547904,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/izl4z8zcj0ds57fruo44ri8o50qw/Cu96nlcLfM9RtRO9etYWnQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/izl4z8zcj0ds57fruo44ri8o50qw/Cu96nlcLfM9RtRO9etYWnQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 21,
+      "name": "Restaurant Swiss Chuchi",
+      "first_offer_description": "Wir offerieren einen Kaffee oder Tee nach Wahl nach dem Essen. Mittagsmenu 11:30 - 13:30 Uhr (Mo-Fr). 1 täglich wechselndes Tagesmenu und 6 wöchentlich wechselnde Wochenhits. Tagesmenu unter CHF 20.- inkl. Suppe oder Salat.",
+      "latitude": 47.3731339,
+      "longitude": 8.543482,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/2tcr0lfn3h5d6odd30e0698pnscu/xXMQis%2Fa6k13QJzCw5IYCg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/2tcr0lfn3h5d6odd30e0698pnscu/xXMQis%2Fa6k13QJzCw5IYCg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 37,
+      "name": "fitforless.ch",
+      "first_offer_description": "Als cashyou Nutzerin oder Nutzer erhältst du 15% Rabatt auf das gesamte Sortiment. Besuche uns entweder in unserem Shop in Wiedikon oder löse den Rabatt online ein (Code: fitforless20).",
+      "latitude": 47.371697,
+      "longitude": 8.521929,
+      "relates_to_collection": false,
+      "category": {
+        "name": "sport",
+        "title": "Hobby & Sport",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/be59i9d2hr0impl0z0c9vmmvn6be/%2Bup%2Ffy8m%2BTqiCHO5KbqKZg%3D%3D.jfif",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/be59i9d2hr0impl0z0c9vmmvn6be/%2Bup%2Ffy8m%2BTqiCHO5KbqKZg%3D%3D.jfif"
+      },
+      "liked": false
+    },
+    {
+      "id": 48,
+      "name": "Fitness Shop & Velopalast Zürich",
+      "first_offer_description": "Als cashyou Nutzerin oder Nutzer erhältst du 15% Rabatt auf das gesamte Sortiment. Besuche uns entweder in unserem Shop oder löse den Rabatt online ein (Code: ST15GO).",
+      "latitude": 47.423995,
+      "longitude": 8.553119,
+      "relates_to_collection": false,
+      "category": {
+        "name": "sport",
+        "title": "Hobby & Sport",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/9vrjv30msej0jjd36qotybva9pct/wahik2t32%2BXe1Jo1Lg0JLA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/9vrjv30msej0jjd36qotybva9pct/wahik2t32%2BXe1Jo1Lg0JLA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 52,
+      "name": "HEART wellness lounge - Sihlfeldstrasse",
+      "first_offer_description": "Mit cashyou bezahlst du CHF 50 anstatt CHF 75 für eine 30 min Massage.",
+      "latitude": 47.37442315,
+      "longitude": 8.517224012850322,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/05h2zhm19zzjbw9aqlx8sugvtv1g/nzFy2EtM81tw4O0E6A4Z3g%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/05h2zhm19zzjbw9aqlx8sugvtv1g/nzFy2EtM81tw4O0E6A4Z3g%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 54,
+      "name": "Jung seit 1976 - Tessinerplatz",
+      "first_offer_description": "30% Rabatt auf ein Brot nach Wahl",
+      "latitude": 47.3638611,
+      "longitude": 8.5311821,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/juxue4z7kskk8tftwiwb811kg6mz/LJ8EXW922rv5%2BbN7GNKt8g%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/juxue4z7kskk8tftwiwb811kg6mz/LJ8EXW922rv5%2BbN7GNKt8g%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 55,
+      "name": "Jung seit 1976 - Bleicherweg",
+      "first_offer_description": "30% Rabatt auf ein Brot nach Wahl",
+      "latitude": 47.3685126,
+      "longitude": 8.536883,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/juxue4z7kskk8tftwiwb811kg6mz/LJ8EXW922rv5%2BbN7GNKt8g%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/juxue4z7kskk8tftwiwb811kg6mz/LJ8EXW922rv5%2BbN7GNKt8g%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 56,
+      "name": "Jung seit 1976 - Limmatstrasse",
+      "first_offer_description": "30% Rabatt auf ein Brot nach Wahl",
+      "latitude": 47.3840886,
+      "longitude": 8.532051332407466,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/juxue4z7kskk8tftwiwb811kg6mz/LJ8EXW922rv5%2BbN7GNKt8g%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/juxue4z7kskk8tftwiwb811kg6mz/LJ8EXW922rv5%2BbN7GNKt8g%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 57,
+      "name": "Jung seit 1976 - Bergstrasse",
+      "first_offer_description": "30% Rabatt auf ein Brot nach Wahl",
+      "latitude": 47.364925,
+      "longitude": 8.5664519,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/juxue4z7kskk8tftwiwb811kg6mz/LJ8EXW922rv5%2BbN7GNKt8g%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/juxue4z7kskk8tftwiwb811kg6mz/LJ8EXW922rv5%2BbN7GNKt8g%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 66,
+      "name": "Äss-Bar Zürich Tannenstrasse",
+      "first_offer_description": "Erhalte 2 Süssgebäcke zum Preis von 1.",
+      "latitude": 47.3772558,
+      "longitude": 8.5470004,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/1y65r3pzh151ae4hivm78sfwqinj/wOtMt2NyU%2FTnkOKC3NSK6g%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/1y65r3pzh151ae4hivm78sfwqinj/wOtMt2NyU%2FTnkOKC3NSK6g%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 67,
+      "name": "Äss-Bar Zürich Wolfgang-Pauli-Strasse",
+      "first_offer_description": "Erhalte 2 Süssgebäcke zum Preis von 1.",
+      "latitude": 47.4091901,
+      "longitude": 8.508276,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/1y65r3pzh151ae4hivm78sfwqinj/wOtMt2NyU%2FTnkOKC3NSK6g%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/1y65r3pzh151ae4hivm78sfwqinj/wOtMt2NyU%2FTnkOKC3NSK6g%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 68,
+      "name": "Äss-Bar Zürich Stüssihofstatt",
+      "first_offer_description": "Erhalte 2 Süssgebäcke zum Preis von 1.",
+      "latitude": 47.37272,
+      "longitude": 8.5438402,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/1y65r3pzh151ae4hivm78sfwqinj/wOtMt2NyU%2FTnkOKC3NSK6g%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/1y65r3pzh151ae4hivm78sfwqinj/wOtMt2NyU%2FTnkOKC3NSK6g%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 91,
+      "name": "WonderWaffel Zürich",
+      "first_offer_description": "Mit cashyou erhältst du von Montag bis Donnerstag 10% Rabatt auf alles.",
+      "latitude": 47.3630112,
+      "longitude": 8.5495281,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/2l3xauh2bd0z65q266df7in5zfbl/RAhZSxDHrmV47HSdZ3O1hA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/2l3xauh2bd0z65q266df7in5zfbl/RAhZSxDHrmV47HSdZ3O1hA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 96,
+      "name": "The North Face Store Zürich",
+      "first_offer_description": "Erhalte mit cashyou 20% Rabatt auf alle Base Camp Duffel & Voyager Duffel in den The North Face Stores Zürich und Bern.",
+      "latitude": 47.3728955,
+      "longitude": 8.5330284,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/nyzt1rieeufv2wgi7ykbhjptay8l/AJse8BHFiM52K5mtExkb0w%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/nyzt1rieeufv2wgi7ykbhjptay8l/AJse8BHFiM52K5mtExkb0w%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 121,
+      "name": "Poushe Strudels",
+      "first_offer_description": "Zu jedem süssen Strudel erhältst du mit der cashyou App einen gratis Kaffee oder ein anderes Heissgetränk.",
+      "latitude": 47.3615244,
+      "longitude": 8.526657,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/vppxiprx7c5ol771zlqmpvmvuyqx/eggJxak%2Fb%2FvFY50qBWl6qw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/vppxiprx7c5ol771zlqmpvmvuyqx/eggJxak%2Fb%2FvFY50qBWl6qw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 124,
+      "name": "apoTHEKE Lunch - Kaffee - Bar",
+      "first_offer_description": "Bei der Bestellung einer Stange Bier kriegst du eine weitere Stange Bier gratis dazu.",
+      "latitude": 47.3734924,
+      "longitude": 8.5528078,
+      "relates_to_collection": false,
+      "category": {
+        "name": "bar",
+        "title": "Bars & Clubs",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/evize33ud3bp4e6dhwqf13327ju4/4C2OXuSIEXklu8OpXLQLRw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/evize33ud3bp4e6dhwqf13327ju4/4C2OXuSIEXklu8OpXLQLRw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 131,
+      "name": "collab zürich",
+      "first_offer_description": "Erhalte beim Kauf eines Leder Schlüsselanhängers von YOOMEE 30% Rabatt.",
+      "latitude": 47.3879926,
+      "longitude": 8.5180533,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/0dvpxb53y1mvtngkv6vxr53h7dx5/5gBSwsN%2Fh110bD4OXjtLXA%3D%3D.JPG",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/0dvpxb53y1mvtngkv6vxr53h7dx5/5gBSwsN%2Fh110bD4OXjtLXA%3D%3D.JPG"
+      },
+      "liked": false
+    },
+    {
+      "id": 230,
+      "name": "Alpamare",
+      "first_offer_description": "Gültig für maximal 4 Personen",
+      "latitude": 47.199043,
+      "longitude": 8.791278,
+      "relates_to_collection": false,
+      "category": {
+        "name": "national",
+        "title": "National",
+        "online": false,
+        "national": true
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/m6qdw6d7ogo0b2nn8sn8ipbz5j00/rS3VtNb4ANjbGx38S8Onjw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/m6qdw6d7ogo0b2nn8sn8ipbz5j00/rS3VtNb4ANjbGx38S8Onjw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 345,
+      "name": "ESL Zürich - Sprachaufenthalte ",
+      "first_offer_description": "Entspricht ca. CHF 500.- Rabatt bei einem Aufenthalt von 8 Wochen. Erwähne bei deiner Buchung via Telefon oder vor Ort, dass du cashyou Nutzer bist.",
+      "latitude": 47.3766587,
+      "longitude": 8.5404551,
+      "relates_to_collection": false,
+      "category": {
+        "name": "education",
+        "title": "Education",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/3huh0ev46fagbccjzky36f0zx862/NamFt1sndtOlQKd6He28Jw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/3huh0ev46fagbccjzky36f0zx862/NamFt1sndtOlQKd6He28Jw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 357,
+      "name": "DQ SOLUTIONS - Zürich Bahnhofplatz",
+      "first_offer_description": "Der Rabatt gilt für aktuelle MacBookPro-, MacBookAir-, MacBook-, iMac-, MacPro- und MacMini-Modelle",
+      "latitude": 47.3767867,
+      "longitude": 8.541264675122356,
+      "relates_to_collection": false,
+      "category": {
+        "name": "education",
+        "title": "Ausbildung",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/2tzn010ps1vj7qe4fyp32w2fnq8h/q2sfHpKL26nUY3Pjib0L6w%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/2tzn010ps1vj7qe4fyp32w2fnq8h/q2sfHpKL26nUY3Pjib0L6w%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 358,
+      "name": "DQ SOLUTIONS - Zürich Weinbergstrasse",
+      "first_offer_description": "Der Rabatt gilt für aktuelle MacBookPro-, MacBookAir-, MacBook-, iMac-, MacPro- und MacMini-Modelle",
+      "latitude": 47.383033,
+      "longitude": 8.5432601,
+      "relates_to_collection": false,
+      "category": {
+        "name": "education",
+        "title": "Ausbildung",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/2tzn010ps1vj7qe4fyp32w2fnq8h/q2sfHpKL26nUY3Pjib0L6w%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/2tzn010ps1vj7qe4fyp32w2fnq8h/q2sfHpKL26nUY3Pjib0L6w%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 405,
+      "name": "Orinad Coiffure - Thalwil",
+      "first_offer_description": "Neue Frisur gewünscht? Ob klassisch oder modern, wir beraten Sie gerne vor Ort.",
+      "latitude": 47.2944073,
+      "longitude": 8.5640512,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 407,
+      "name": "Orinad Coiffure - Löwenstr.",
+      "first_offer_description": "Neue Frisur gewünscht? Ob klassisch oder modern, wir beraten Sie gerne vor Ort.",
+      "latitude": 47.3730935,
+      "longitude": 8.534363,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 408,
+      "name": "Orinad Coiffure - Wallisellenstr.",
+      "first_offer_description": "Neue Frisur gewünscht? Ob klassisch oder modern, wir beraten Sie gerne vor Ort.",
+      "latitude": 47.4100894,
+      "longitude": 8.5467502,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 410,
+      "name": "Orinad Coiffure - Altstetterstr.",
+      "first_offer_description": "Neue Frisur gewünscht? Ob klassisch oder modern, wir beraten Sie gerne vor Ort.",
+      "latitude": 47.3882833,
+      "longitude": 8.4875671,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 411,
+      "name": "Orinad Coiffure - Hofwiesenstr.",
+      "first_offer_description": "Neue Frisur gewünscht? Ob klassisch oder modern, wir beraten Sie gerne vor Ort.",
+      "latitude": 47.3923188,
+      "longitude": 8.5385126,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 412,
+      "name": "Orinad Coiffure - Witikonerstr.",
+      "first_offer_description": "Neue Frisur gewünscht? Ob klassisch oder modern, wir beraten Sie gerne vor Ort.",
+      "latitude": 47.3592499,
+      "longitude": 8.5860723,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 413,
+      "name": "Orinad Coiffure - Vulkanplatz",
+      "first_offer_description": "Neue Frisur gewünscht? Ob klassisch oder modern, wir beraten Sie gerne vor Ort.",
+      "latitude": 47.3920447,
+      "longitude": 8.4901828,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 414,
+      "name": "Orinad Coiffure - Seefeldstr.",
+      "first_offer_description": "Neue Frisur gewünscht? Ob klassisch oder modern, wir beraten Sie gerne vor Ort.",
+      "latitude": 47.3646768,
+      "longitude": 8.5481551,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/x06ix7dm2jboegqlzmq5py2yqwa7/7Ppd9ZSwhxe%2B%2B9J%2BaZOojA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 432,
+      "name": "Stripped Pizza - Talacker",
+      "first_offer_description": "Geniess deine Feel Good Pizza mit 20% Studentenrabatt! Verwende den Promocode bei deiner nächsten Bestellung über die Stripped Pizza App oder Website. ",
+      "latitude": 47.371691,
+      "longitude": 8.534712,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 438,
+      "name": "UBS Zürich Bahnhofstrasse",
+      "first_offer_description": "Kostenloses cashyou Abo für alle bis 30 mit einem Bankpaket UBS me",
+      "latitude": 47.3744013,
+      "longitude": 8.5389001,
+      "relates_to_collection": false,
+      "category": {
+        "name": "education",
+        "title": "Ausbildung",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/uua2ipw741izciyi1l76q4i780c0/tz4MIqHqoK2NFlE0AHdfMA%3D%3D.jpeg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/uua2ipw741izciyi1l76q4i780c0/tz4MIqHqoK2NFlE0AHdfMA%3D%3D.jpeg"
+      },
+      "liked": false
+    },
+    {
+      "id": 495,
+      "name": "Tadka Indisches Restaurant",
+      "first_offer_description": "Mit cashyou erhältst du und deine Begleitung einmalig 2 für 1 am Mittagsbuffet (à discrétion). ",
+      "latitude": 47.3862517,
+      "longitude": 8.5287289,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/gjxw0o92hpjgiq8w1xd24miqoylh/ViUh3kcJWD9gEJ1eAdKd%2FQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/gjxw0o92hpjgiq8w1xd24miqoylh/ViUh3kcJWD9gEJ1eAdKd%2FQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 525,
+      "name": "The Body Shop - Bahnhofstrasse",
+      "first_offer_description": "Über 150 Produkte zum Spezialpreis. Masken, Tages- und Nachtcremen, Sonnenschutz, Reinigung und vieles mehr.",
+      "latitude": 47.3768277,
+      "longitude": 8.5395824,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/oqdu38vetzrxjc7jm18f86cxqwkl/2wYdq9fshSU%2BSE3yNh5%2Faw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/oqdu38vetzrxjc7jm18f86cxqwkl/2wYdq9fshSU%2BSE3yNh5%2Faw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 527,
+      "name": "The Body Shop - Museumstrasse",
+      "first_offer_description": "Über 150 Produkte zum Spezialpreis. Masken, Tages- und Nachtcremen, Sonnenschutz, Reinigung und vieles mehr.",
+      "latitude": 47.3781401,
+      "longitude": 8.5410253,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/oqdu38vetzrxjc7jm18f86cxqwkl/2wYdq9fshSU%2BSE3yNh5%2Faw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/oqdu38vetzrxjc7jm18f86cxqwkl/2wYdq9fshSU%2BSE3yNh5%2Faw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 528,
+      "name": "The Body Shop - Kalanderplatz",
+      "first_offer_description": "Über 150 Produkte zum Spezialpreis. Masken, Tages- und Nachtcremen, Sonnenschutz, Reinigung und vieles mehr.",
+      "latitude": 47.3576906,
+      "longitude": 8.5236565,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/oqdu38vetzrxjc7jm18f86cxqwkl/2wYdq9fshSU%2BSE3yNh5%2Faw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/oqdu38vetzrxjc7jm18f86cxqwkl/2wYdq9fshSU%2BSE3yNh5%2Faw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 529,
+      "name": "The Body Shop - Stadelhoferstrasse",
+      "first_offer_description": "Über 150 Produkte zum Spezialpreis. Masken, Tages- und Nachtcremen, Sonnenschutz, Reinigung und vieles mehr.",
+      "latitude": 47.3671855,
+      "longitude": 8.5468303,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/oqdu38vetzrxjc7jm18f86cxqwkl/2wYdq9fshSU%2BSE3yNh5%2Faw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/oqdu38vetzrxjc7jm18f86cxqwkl/2wYdq9fshSU%2BSE3yNh5%2Faw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 551,
+      "name": "SERGE - Joy of Food",
+      "first_offer_description": "Geniesst zu zweit einen SERGE Klassiker bis zu CHF 25.- und bezahlt nur ein Gericht.",
+      "latitude": 47.3536508,
+      "longitude": 8.558213177879583,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 568,
+      "name": "Pasta Barn & Müesli Bar",
+      "first_offer_description": "Eine Portion Pasta nach Wahl plus ein Softgetränk für nur CHF 12.-",
+      "latitude": 47.37915,
+      "longitude": 8.536414,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/t5mg6mbmxc1085s17dr74cr74b4l/I8ahuBiFAS%2Fvhk1Osx8UAg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/t5mg6mbmxc1085s17dr74cr74b4l/I8ahuBiFAS%2Fvhk1Osx8UAg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 594,
+      "name": "BachserMärt Seefeld",
+      "first_offer_description": "Mit cashyou profitierst du von 10% Rabatt auf einen Refill Artikel",
+      "latitude": 47.3633732,
+      "longitude": 8.5497346,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/1vxkliex8jjt61lp6rrbwt9v8ldg/bLikyeNoMKHQ2qDOwH%2Fctw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/1vxkliex8jjt61lp6rrbwt9v8ldg/bLikyeNoMKHQ2qDOwH%2Fctw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 595,
+      "name": "BachserMärt Kalkbreite",
+      "first_offer_description": "Mit cashyou profitierst du von 10% Rabatt auf einen Refill Artikel",
+      "latitude": 47.374514,
+      "longitude": 8.520494,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/1vxkliex8jjt61lp6rrbwt9v8ldg/bLikyeNoMKHQ2qDOwH%2Fctw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/1vxkliex8jjt61lp6rrbwt9v8ldg/bLikyeNoMKHQ2qDOwH%2Fctw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 597,
+      "name": "BachserMärt Albisrieden",
+      "first_offer_description": "Mit cashyou profitierst du von 10% Rabatt auf einen Refill Artikel",
+      "latitude": 47.3760492,
+      "longitude": 8.4949766,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/1vxkliex8jjt61lp6rrbwt9v8ldg/bLikyeNoMKHQ2qDOwH%2Fctw%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/1vxkliex8jjt61lp6rrbwt9v8ldg/bLikyeNoMKHQ2qDOwH%2Fctw%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 616,
+      "name": "Emma’s Bakery",
+      "first_offer_description": "10% Rabatt auf das ganze Sortiment (ausser Brot).",
+      "latitude": 47.3964809,
+      "longitude": 8.5404306,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/m908wbdqkjq2z0bdyd8cyjmccv6p/j%2FNd4GHxOiP9MHKVql48lw%3D%3D.jpeg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/m908wbdqkjq2z0bdyd8cyjmccv6p/j%2FNd4GHxOiP9MHKVql48lw%3D%3D.jpeg"
+      },
+      "liked": false
+    },
+    {
+      "id": 657,
+      "name": "Domino's Pizza - Zürich Sihlhölzli",
+      "first_offer_description": "FRESH IS BEST! Mit cashyou profitierst du von 20% Rabatt auf unsere frische handgemachte Pizza aus Suisse Garantie Teig und Mozzarella. Gültig in allen Domino’s Filialen in der Schweiz für Take-Away und Dine-in. Einfach Coupon einlösen und den Code bei der Bestellung eingeben.",
+      "latitude": 47.3696972,
+      "longitude": 8.5259942,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 658,
+      "name": "Domino's Pizza - Zürich Uni",
+      "first_offer_description": "FRESH IS BEST! Mit cashyou profitierst du von 20% Rabatt auf unsere frische handgemachte Pizza aus Suisse Garantie Teig und Mozzarella. Gültig in allen Domino’s Filialen in der Schweiz für Take-Away und Dine-in. Einfach Coupon einlösen und den Code bei der Bestellung eingeben.",
+      "latitude": 47.378472,
+      "longitude": 8.547996,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 659,
+      "name": "Domino's Pizza - Zürich Altstetten",
+      "first_offer_description": "FRESH IS BEST! Mit cashyou profitierst du von 20% Rabatt auf unsere frische handgemachte Pizza aus Suisse Garantie Teig und Mozzarella. Gültig in allen Domino’s Filialen in der Schweiz für Take-Away und Dine-in. Einfach Coupon einlösen und den Code bei der Bestellung eingeben.",
+      "latitude": 47.3896502,
+      "longitude": 8.4946346,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 660,
+      "name": "Domino's Pizza - Zürich Oerlikon",
+      "first_offer_description": "FRESH IS BEST! Mit cashyou profitierst du von 20% Rabatt auf unsere frische handgemachte Pizza aus Suisse Garantie Teig und Mozzarella. Gültig in allen Domino’s Filialen in der Schweiz für Take-Away und Dine-in. Einfach Coupon einlösen und den Code bei der Bestellung eingeben.",
+      "latitude": 47.409122,
+      "longitude": 8.544894,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 661,
+      "name": "Domino's Pizza - Zürich Glatt",
+      "first_offer_description": "FRESH IS BEST! Mit cashyou profitierst du von 20% Rabatt auf unsere frische handgemachte Pizza aus Suisse Garantie Teig und Mozzarella. Gültig in allen Domino’s Filialen in der Schweiz für Take-Away und Dine-in. Einfach Coupon einlösen und den Code bei der Bestellung eingeben.",
+      "latitude": 47.4060575,
+      "longitude": 8.5917527,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 662,
+      "name": "Domino's Pizza - Zürich Seebach",
+      "first_offer_description": "FRESH IS BEST! Mit cashyou profitierst du von 20% Rabatt auf unsere frische handgemachte Pizza aus Suisse Garantie Teig und Mozzarella. Gültig in allen Domino’s Filialen in der Schweiz für Take-Away und Dine-in. Einfach Coupon einlösen und den Code bei der Bestellung eingeben.",
+      "latitude": 47.419992,
+      "longitude": 8.547883,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 663,
+      "name": "Domino's Pizza - Zürich Goldbrunnen",
+      "first_offer_description": "FRESH IS BEST! Mit cashyou profitierst du von 20% Rabatt auf unsere frische handgemachte Pizza aus Suisse Garantie Teig und Mozzarella. Gültig in allen Domino’s Filialen in der Schweiz für Take-Away und Dine-in. Einfach Coupon einlösen und den Code bei der Bestellung eingeben.",
+      "latitude": 47.3703146,
+      "longitude": 8.5129296,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 666,
+      "name": "Domino's Pizza - Dietikon",
+      "first_offer_description": "FRESH IS BEST! Mit cashyou profitierst du von 20% Rabatt auf unsere frische handgemachte Pizza aus Suisse Garantie Teig und Mozzarella. Gültig in allen Domino’s Filialen in der Schweiz für Take-Away und Dine-in. Einfach Coupon einlösen und den Code bei der Bestellung eingeben.",
+      "latitude": 47.410089,
+      "longitude": 8.404351,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/du62nh9h7qp3e85n867oza4536es/UyNGq5mp4Hhifl%2FXF%2Fb74A%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 682,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.3761715,
+      "longitude": 8.5421767,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 683,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.37347315343334,
+      "longitude": 8.534477270987045,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 684,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.3663927,
+      "longitude": 8.5467443,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 685,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.3925235,
+      "longitude": 8.5245187,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 686,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.3667697,
+      "longitude": 8.5481461,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 687,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.3858089,
+      "longitude": 8.5165739,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 688,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.3777162,
+      "longitude": 8.5112192,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 689,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.3707927,
+      "longitude": 8.5158561,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 690,
+      "name": "Coop",
+      "first_offer_description": "Erhalte beim Kauf eines PILOT Produkts CHF 1.- Rabatt",
+      "latitude": 47.38572485,
+      "longitude": 8.498407948214606,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 4,
+      "promotional_offers_count": 4,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/aag5gbgobm2zomrf7yp7i9tnicpu/pmk24hPH%2Bi7KropNKLY7sA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 851,
+      "name": "WonderWaffel Volkiland",
+      "first_offer_description": "Mit cashyou erhältst du von Montag bis Donnerstag 10% Rabatt auf alles.",
+      "latitude": 47.382544,
+      "longitude": 8.667628,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/2l3xauh2bd0z65q266df7in5zfbl/RAhZSxDHrmV47HSdZ3O1hA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/2l3xauh2bd0z65q266df7in5zfbl/RAhZSxDHrmV47HSdZ3O1hA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 878,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX dolo in viel Flüssigkeit aufschwemmen und möglichst nach einer Mahlzeit einnehmen (Wir empfehlen als Flüssigkeit 3dl KAEX dolo). Dies ist ein zugelassenes Arzneimittel. Lesen Sie die Packungsbeilage. Vertrieb: Hänseler Swiss Pharma, CH-9100 Herisau",
+      "latitude": 47.377961,
+      "longitude": 8.539535,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 881,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.37669,
+      "longitude": 8.5399521,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 883,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.3774096,
+      "longitude": 8.538963269241194,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 884,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.3750349,
+      "longitude": 8.5237485,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 885,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.3645003,
+      "longitude": 8.5320993,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 886,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.366683,
+      "longitude": 8.548569,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 889,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.3913167,
+      "longitude": 8.4893332,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 949,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.3385069,
+      "longitude": 8.529885,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 953,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.4508792,
+      "longitude": 8.5300081,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 961,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.4104927,
+      "longitude": 8.5425187,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 979,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.450928,
+      "longitude": 8.561005,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1007,
+      "name": "KAEX bei AMAVITA",
+      "first_offer_description": "KAEX reload ist ein Nahrungsergänzungsmittel mit 25 Inhaltsstoffen. Es gibt dem Körper alles zurück, was er beim Sport oder Alkoholgenuss verloren hat. KAEX reload wurde in wissenschaftlicher Forschung entwickelt und ist weltweit zum Patent eingereicht.",
+      "latitude": 47.391436,
+      "longitude": 8.489071,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/lgzx3t0d78fuskjccpuw2kzwlhhc/rv0O9v9Qw9dYI6DJfnlkEQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1076,
+      "name": "RRREVOLVE",
+      "first_offer_description": "Mit cashyou profitierst du dauerhaft von 10% Rabatt bei RRREVOLVE auf das gesamte Sortiment. ",
+      "latitude": 47.3819993,
+      "longitude": 8.5354777,
+      "relates_to_collection": false,
+      "category": {
+        "name": "online",
+        "title": "online only",
+        "online": true,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/49px8ir2tyrgx5uiff8xgxmj553u/gEDhZx4Zfwr%2FLbkAJ%2Fg%2FTg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/49px8ir2tyrgx5uiff8xgxmj553u/gEDhZx4Zfwr%2FLbkAJ%2Fg%2FTg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1120,
+      "name": "ASSR Antischleuderschule",
+      "first_offer_description": "Mit cashyou profitierst du jetzt von CHF 30.- Rabatt für WAB, freiwillige Auto- und Motorrad- Ganztageskurse in der Schweiz.",
+      "latitude": 47.4299485,
+      "longitude": 8.4636992,
+      "relates_to_collection": false,
+      "category": {
+        "name": "mobility",
+        "title": "Mobility",
+        "online": null,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/pcz6rqqz8bp6f77dvxfb87ck6gpj/kQTB%2FaXQ653thZW8%2Bg64CA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/pcz6rqqz8bp6f77dvxfb87ck6gpj/kQTB%2FaXQ653thZW8%2Bg64CA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1126,
+      "name": "Ping Pong Lounge",
+      "first_offer_description": "Bei Gruppen Events erhaltet Ihr 10% Rabatt auf alle Ping Pong Angebote, gültig ab 10 Personen.",
+      "latitude": 47.412958,
+      "longitude": 8.5545488,
+      "relates_to_collection": false,
+      "category": {
+        "name": "bar",
+        "title": "Bars & Clubs",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 3,
+      "promotional_offers_count": 3,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1132,
+      "name": "Transa Zürich",
+      "first_offer_description": "Dieser Gutschein umfasst einen einmaligen Rabatt von 10% auf das ganze Sortiment und kann in allen Transa Filialen eingelöst werden.",
+      "latitude": 47.3772184,
+      "longitude": 8.5344367,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/dqf05bhkn7k0q3np01epzsv4n55m/3vXFUgJv76aGMyBYiqm5dA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/dqf05bhkn7k0q3np01epzsv4n55m/3vXFUgJv76aGMyBYiqm5dA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1133,
+      "name": "Visage Gastrobar",
+      "first_offer_description": "Mit cashyou erhältst du 10% auf jede Bestellung",
+      "latitude": 47.39545,
+      "longitude": 8.63723,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1150,
+      "name": "PKZ MEN - Zürich Bahnhofstrasse",
+      "first_offer_description": "Profitiere mit der PKZ Insider Student Card 365 Tage im Jahr von 10% Rabatt auf alle Einkäufe in sämtlichen PKZ MEN & WOMEN Filialen sowie auf www.pkz.ch",
+      "latitude": 47.3721991,
+      "longitude": 8.5385854,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1182,
+      "name": "PKZ MEN - Zürich Löwenstrasse",
+      "first_offer_description": "Profitiere mit der PKZ Insider Student Card 365 Tage im Jahr von 10% Rabatt auf alle Einkäufe in sämtlichen PKZ MEN & WOMEN Filialen sowie auf www.pkz.ch",
+      "latitude": 47.3756439,
+      "longitude": 8.5367499,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1192,
+      "name": "PKZ MEN & WOMEN - Glattzentrum",
+      "first_offer_description": "Profitiere mit der PKZ Insider Student Card 365 Tage im Jahr von 10% Rabatt auf alle Einkäufe in sämtlichen PKZ MEN & WOMEN Filialen sowie auf www.pkz.ch",
+      "latitude": 47.4166195,
+      "longitude": 8.5919985,
+      "relates_to_collection": true,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1202,
+      "name": "PKZ MEN - Sihlcity",
+      "first_offer_description": "Profitiere mit der PKZ Insider Student Card 365 Tage im Jahr von 10% Rabatt auf alle Einkäufe in sämtlichen PKZ MEN & WOMEN Filialen sowie auf www.pkz.ch",
+      "latitude": 47.3580762,
+      "longitude": 8.5224112,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1204,
+      "name": "PKZ WOMEN - Zürich Bahnhofstrasse",
+      "first_offer_description": "Profitiere mit der PKZ Insider Student Card 365 Tage im Jahr von 10% Rabatt auf alle Einkäufe in sämtlichen PKZ MEN & WOMEN Filialen sowie auf www.pkz.ch",
+      "latitude": 47.3756521,
+      "longitude": 8.5398019,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1218,
+      "name": "FABRIK11",
+      "first_offer_description": "Mit cashyou kannst du für CHF 35.- (anstatt CHF 55.-) einen Tag im Coworking Space verbringen und kostenlos das Sportangebot dazu nutzen.",
+      "latitude": 47.397740150000004,
+      "longitude": 8.603934038914236,
+      "relates_to_collection": false,
+      "category": {
+        "name": "sport",
+        "title": "Hobby & Sport",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1224,
+      "name": "Panic Room Games",
+      "first_offer_description": "Mit cashyou erhältst du 30% Rabatt auf dein nächstes Spiel bei Panic Room Games!",
+      "latitude": 47.377175449999996,
+      "longitude": 8.538174600151981,
+      "relates_to_collection": false,
+      "category": {
+        "name": "sport",
+        "title": "Hobby & Sport",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1230,
+      "name": "Union Diner Stauffacher",
+      "first_offer_description": "Bestelle deinen Burger und bekomme Fries und 1 Getränk gratis dazu.",
+      "latitude": 47.37359,
+      "longitude": 8.53203,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/d68swf8rhyxsz8k50hq73dn5z9c5/tUSeYI%2BK9LjDA%2Fz5A6fEdQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/d68swf8rhyxsz8k50hq73dn5z9c5/tUSeYI%2BK9LjDA%2Fz5A6fEdQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1231,
+      "name": "Brauerei Steinfels",
+      "first_offer_description": "Mit cashyou erhältst du 20% Rabatt auf das gesamte Food Angebot.",
+      "latitude": 47.3887272,
+      "longitude": 8.5213785,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1233,
+      "name": "Blue Monkey",
+      "first_offer_description": "Mit cashyou erhältst du 20% Rabatt auf das ganze Food Angebot.",
+      "latitude": 47.3726391,
+      "longitude": 8.5432845,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1234,
+      "name": "Union Diner Bellevue",
+      "first_offer_description": "Bestelle deinen Burger und bekomme Fries und 1 Getränk gratis dazu.",
+      "latitude": 47.36705,
+      "longitude": 8.54635,
+      "relates_to_collection": false,
+      "category": {
+        "name": "food",
+        "title": "Restaurants & Cafes",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/d68swf8rhyxsz8k50hq73dn5z9c5/tUSeYI%2BK9LjDA%2Fz5A6fEdQ%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/d68swf8rhyxsz8k50hq73dn5z9c5/tUSeYI%2BK9LjDA%2Fz5A6fEdQ%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1265,
+      "name": "VRilliant",
+      "first_offer_description": "Mit cashyou erhältst du 30% Rabatt auf dein nächstes Spiel bei VRilliant!",
+      "latitude": 47.3835177,
+      "longitude": 8.4957389,
+      "relates_to_collection": false,
+      "category": {
+        "name": "sport",
+        "title": "Hobby & Sport",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1350,
+      "name": "Manor - Spreitenbach",
+      "first_offer_description": "Hol dir jetzt deine Manor Treuekarte und profitiere mit cashyou von verschiedenen exklusiven Rabatten. Ganz einfach in 3 Schritten online beantragen und direkt profitieren*:                                                                Schritt 1: www.manor.ch/karte wählen                                                                                Schritt 2: Registrieren                                                                Schritt 3: Den QR Code mit Treue-ID direkt per Mail erhalten                                                                                             Schritt 4: Deine Digitale Treuekarte und Coupon an der Kasse zeigen und profitieren",
+      "latitude": 47.421937820109285,
+      "longitude": 8.367145355864848,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 2,
+      "promotional_offers_count": 2,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/rkvb45jpkomtj6yek0femnov425r/Em1kcwk%2F%2Br0kk0d4UecBIg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/rkvb45jpkomtj6yek0femnov425r/Em1kcwk%2F%2Br0kk0d4UecBIg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1360,
+      "name": "Manor - Zürich HB",
+      "first_offer_description": "Hol dir jetzt deine Manor Treuekarte und profitiere mit cashyou von verschiedenen exklusiven Rabatten. Ganz einfach in 3 Schritten online beantragen und direkt profitieren*:                                                                Schritt 1: www.manor.ch/karte wählen                                                                                Schritt 2: Registrieren                                                                Schritt 3: Den QR Code mit Treue-ID direkt per Mail erhalten                                                                                             Schritt 4: Deine Digitale Treuekarte und Coupon an der Kasse zeigen und profitieren",
+      "latitude": 47.37807665,
+      "longitude": 8.538689958030329,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/rkvb45jpkomtj6yek0femnov425r/Em1kcwk%2F%2Br0kk0d4UecBIg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/rkvb45jpkomtj6yek0femnov425r/Em1kcwk%2F%2Br0kk0d4UecBIg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1474,
+      "name": "Letzipark",
+      "first_offer_description": null,
+      "latitude": 47.3723941,
+      "longitude": 8.5423328,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 0,
+      "promotional_offers_count": 0,
+      "children": 2,
+      "collection_partner": true,
+      "cover": "https://fly.cashyou.ch//files/image/j7smc7ud7eji4j23loeve5txwy6k/fRF5zou9tCG3NSyj3b742Q%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/j7smc7ud7eji4j23loeve5txwy6k/fRF5zou9tCG3NSyj3b742Q%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1475,
+      "name": "VIU - Flagship Store Zurich Grüngasse",
+      "first_offer_description": "Looking for the perfect style for the new semester? VIU Eyewear has the right glasses for you. Present this coupon to get 15% off your new favorite style.",
+      "latitude": 47.3726734,
+      "longitude": 8.5262266,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/nnxmhryh35054etjcs2rbbutnmy0/oxJDQhXilgBSO2lRbxTsyg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/nnxmhryh35054etjcs2rbbutnmy0/oxJDQhXilgBSO2lRbxTsyg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1497,
+      "name": "VIU - Flagship Store Zurich Schoffelgasse",
+      "first_offer_description": "Looking for the perfect style for the new semester? VIU Eyewear has the right glasses for you. Present this coupon to get 15% off your new favorite style.",
+      "latitude": 47.370994,
+      "longitude": 8.54342,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/nnxmhryh35054etjcs2rbbutnmy0/oxJDQhXilgBSO2lRbxTsyg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/nnxmhryh35054etjcs2rbbutnmy0/oxJDQhXilgBSO2lRbxTsyg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1498,
+      "name": "VIU - Flagship Store Zurich Uraniastrasse",
+      "first_offer_description": "Looking for the perfect style for the new semester? VIU Eyewear has the right glasses for you. Present this coupon to get 15% off your new favorite style.",
+      "latitude": 47.37440000677517,
+      "longitude": 8.53935991947221,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/nnxmhryh35054etjcs2rbbutnmy0/oxJDQhXilgBSO2lRbxTsyg%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/nnxmhryh35054etjcs2rbbutnmy0/oxJDQhXilgBSO2lRbxTsyg%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1567,
+      "name": "PerfectHair Salon - MÜHLEGASSE ZÜRICH",
+      "first_offer_description": "Erhalte 20% Rabatt auf deinen ersten Coiffeurbesuch in PerfectHair Salon.",
+      "latitude": 47.3743819,
+      "longitude": 8.5435874,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1568,
+      "name": "PerfectHair Salon - TURBINENSTRASSE ZÜRICH",
+      "first_offer_description": "Erhalte 20% Rabatt auf deinen ersten Coiffeurbesuch in PerfectHair Salon.",
+      "latitude": 47.3875931,
+      "longitude": 8.5153046,
+      "relates_to_collection": false,
+      "category": {
+        "name": "spa",
+        "title": "Wellness & Beauty",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": null,
+      "merchant": {
+        "cover": null
+      },
+      "liked": false
+    },
+    {
+      "id": 1613,
+      "name": "Einkaufszentrum Glatt",
+      "first_offer_description": null,
+      "latitude": 47.4088601,
+      "longitude": 8.5953609,
+      "relates_to_collection": false,
+      "category": {
+        "name": "shopping",
+        "title": "Shopping",
+        "online": false,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 0,
+      "promotional_offers_count": 0,
+      "children": 1,
+      "collection_partner": true,
+      "cover": "https://fly.cashyou.ch//files/image/4bivibntfxbkwd2ee9eayoxm0qez/cMzOpIKGqBMNEaTP5TQckA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/4bivibntfxbkwd2ee9eayoxm0qez/cMzOpIKGqBMNEaTP5TQckA%3D%3D.jpg"
+      },
+      "liked": false
+    },
+    {
+      "id": 1633,
+      "name": "Coop Pronto - Zürich-Höngg",
+      "first_offer_description": "Einlösbar in allen Coop Pronto Shops mit Tankstelle und an Coop Tankstellen mit Durchfahrtskasse während den Kassenöffnungszeiten (exkl. Automaten).",
+      "latitude": 47.3995257,
+      "longitude": 8.4973287,
+      "relates_to_collection": false,
+      "category": {
+        "name": "mobility",
+        "title": "Mobility",
+        "online": null,
+        "national": false
+      },
+      "freemium_promotional_offers_count": 1,
+      "promotional_offers_count": 1,
+      "children": 0,
+      "collection_partner": false,
+      "cover": "https://fly.cashyou.ch//files/image/ebf7j43dfh50lwh0mz767ieaj7q9/o9z9%2FGU7ZbrXWgIZLBsiGA%3D%3D.jpg",
+      "merchant": {
+        "cover": "https://fly.cashyou.ch//files/image/ebf7j43dfh50lwh0mz767ieaj7q9/o9z9%2FGU7ZbrXWgIZLBsiGA%3D%3D.jpg"
+      },
+      "liked": false
+    }
+  ],
+  "ids": [
+    12,
+    13,
+    18,
+    19,
+    20,
+    21,
+    37,
+    48,
+    52,
+    54,
+    55,
+    56,
+    57,
+    66,
+    67,
+    68,
+    91,
+    96,
+    121,
+    124,
+    131,
+    230,
+    345,
+    357,
+    358,
+    405,
+    407,
+    408,
+    410,
+    411,
+    412,
+    413,
+    414,
+    432,
+    438,
+    495,
+    525,
+    527,
+    528,
+    529,
+    551,
+    568,
+    594,
+    595,
+    597,
+    616,
+    657,
+    658,
+    659,
+    660,
+    661,
+    662,
+    663,
+    666,
+    682,
+    683,
+    684,
+    685,
+    686,
+    687,
+    688,
+    689,
+    690,
+    851,
+    878,
+    881,
+    883,
+    884,
+    885,
+    886,
+    889,
+    949,
+    953,
+    961,
+    979,
+    1007,
+    1076,
+    1120,
+    1126,
+    1132,
+    1133,
+    1150,
+    1182,
+    1192,
+    1202,
+    1204,
+    1218,
+    1224,
+    1230,
+    1231,
+    1233,
+    1234,
+    1265,
+    1350,
+    1360,
+    1474,
+    1475,
+    1497,
+    1498,
+    1567,
+    1568,
+    1613,
+    1633
+  ]
+}
