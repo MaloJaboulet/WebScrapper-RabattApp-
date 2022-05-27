@@ -6,6 +6,7 @@ import kong.unirest.HttpResponse;
 import kong.unirest.Unirest;
 import org.apache.batik.transcoder.*;
 import org.apache.commons.io.FileUtils;
+import org.checkerframework.checker.units.qual.A;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
@@ -25,8 +26,9 @@ public class WebScrapper {
 
     public static void main(String[] args) throws TranscoderException, IOException, InterruptedException {
         WebScrapper webScrapper = new WebScrapper();
-        webScrapper.getStucardDeals();
-        webScrapper.getCashYouDeals();
+        //webScrapper.getStucardDeals();
+        //webScrapper.getCashYouDeals();
+        webScrapper.getRabattcornerDeals();
     }
 
     public void getCashYouDeals() throws IOException, InterruptedException {
@@ -76,12 +78,12 @@ public class WebScrapper {
                 deal.setLon(lat_lng);
 
                 HashMap<String, String> map = new HashMap<>();
-                if (cashyouResponse2.getStreet() != null && cashyouResponse2.getStreet_number() != null && cashyouResponse2.getCity_name()!= null) {
+                if (cashyouResponse2.getStreet() != null && cashyouResponse2.getStreet_number() != null && cashyouResponse2.getCity_name() != null) {
                     String adresse = cashyouResponse2.getStreet() + " " + cashyouResponse2.getStreet_number();
-                    adresse = adresse.replaceAll(","," ");
+                    adresse = adresse.replaceAll(",", " ");
                     map.put(adresse, cashyouResponse2.getCity_name());
 
-                }else {
+                } else {
                     map.put("Musterstrasse 10", "Musterdorf");
                 }
                 deal.setAddressen(map);
@@ -126,7 +128,7 @@ public class WebScrapper {
         for (int i = 0; i < deals.size(); i++) {
             Deal deal = deals.get(i);
 
-            for (Iterator<Deal> iterator = deals.iterator(); iterator.hasNext();) {
+            for (Iterator<Deal> iterator = deals.iterator(); iterator.hasNext(); ) {
                 Deal deal2 = iterator.next();
 
                 if (deal.equals(deal2)) {
@@ -160,8 +162,8 @@ public class WebScrapper {
 
         System.out.println("Send Deals");
         int index = 0;
-        for (Deal deal:deals) {
-            if (deal.getRabatt().size()<1){
+        for (Deal deal : deals) {
+            if (deal.getRabatt().size() < 1) {
                 continue;
             }
             sendRequest(deal);
@@ -347,6 +349,119 @@ public class WebScrapper {
         fileWriter.close();
 
         System.out.println(zaehler);
+    }
+
+    public void getRabattcornerDeals() throws IOException {
+
+        System.setProperty("webdriver.chrome.driver", "C:\\chromedriver_win32\\chromedriver.exe");
+
+        String rabattNameUrl[] = {"damenmode.html", "herren.html", "kinder.html", "ferien.html", "elektronik.html", "unterhaltung.html", "haushalt.html", "drogerie.html", "essen.html", "andere.html"};
+
+
+        WebDriver driver = new ChromeDriver();
+        Vector<Deal> deals = new Vector<>();
+
+
+        for (String rabattNameLink : rabattNameUrl) {
+
+            driver.get("https://www.rabattcorner.ch/" + rabattNameLink);
+
+            List<WebElement> linksDeals = driver.findElements(By.cssSelector("div[class='pointer bg-white raised2 br2 pa3 pa0-l cf']"));
+            List<WebElement> linksSites = driver.findElements(By.cssSelector("a[class='dib link color-inherit']"));
+            String url = "https://www.rabattcorner.ch";
+            Vector<String> linksOfDeals = new Vector<>();
+            Vector<String> imageUrls = new Vector<>();
+            Vector<String> linksOfSites = new Vector<>();
+            Vector<String> nameOfDeals = new Vector<>();
+
+
+            for (WebElement data : linksSites) {
+                linksOfSites.add(data.getAttribute("href"));
+            }
+
+            for (String link:linksOfSites) {
+                driver.navigate().to(link);
+                linksDeals = driver.findElements(By.cssSelector("div[class='pointer bg-white raised2 br2 pa3 pa0-l cf']"));
+                for (WebElement data : linksDeals) {
+                    String temp = data.getAttribute("data-custom-partner-link");
+                    String tempName = temp.substring(temp.lastIndexOf("/")+1, temp.length());
+                    if (!nameOfDeals.contains(tempName)) {
+                        nameOfDeals.add(tempName);
+                        linksOfDeals.add(temp);
+                    }
+                }
+                System.out.println(linksOfDeals.size());
+            }
+
+
+            for (int i = 0; i < linksOfDeals.size(); i++) {
+
+
+                String destinationTo = linksOfDeals.get(i);
+                driver.navigate().to(url + destinationTo);
+                // driver.navigate().to(destinationTo);
+
+                String name = "";
+                String beschreibung = "";
+                Vector<String> rabatt = new Vector<>();
+                String imageUrl = "";
+                Vector<String> adressen = new Vector<>();
+                List<WebElement> tdList;
+                List<WebElement> rabatte;
+                Deal deal = new Deal();
+                try {
+                    name = driver.findElement(By.tagName("h1")).getText();
+                    name = name.replaceAll("Cashback und Gutscheine für", "").trim();
+
+                    beschreibung = driver.findElement(By.className("descr-short")).getText();
+                    rabatte = driver.findElements(By.cssSelector("div[class='f2 b']"));
+                    for (WebElement rabattWert : rabatte) {
+                        rabatt.add(rabattWert.getText());
+                    }
+
+                    WebElement image = driver.findElement(By.cssSelector("div[class='w-100 h-100 bg-center contain']"));
+                    imageUrl = image.getAttribute("style");
+                    imageUrl = imageUrl.substring(imageUrl.indexOf("(")+1,imageUrl.length()-1);
+
+
+                    deal.setName(name);
+                    deal.setBeschreibung(beschreibung);
+                    deal.setCategory(rabattNameLink.substring(0,rabattNameLink.indexOf(".")));
+                    Vector<Double> lat_lng = new Vector<>();
+                    lat_lng.add(0.0);
+                    deal.setLat(lat_lng);
+                    deal.setLon(lat_lng);
+                    HashMap<String, String> map = new HashMap<>();
+                    map.put("online", "online");
+
+                    deal.setName(name);
+                    deal.setBeschreibung(beschreibung);
+                    deal.setCategory(rabattNameLink.substring(0,rabattNameLink.indexOf(".")));
+                    deal.setAddressen(map);
+                    deal.setLat(lat_lng);
+                    deal.setLon(lat_lng);
+                    deal.setRabatt(rabatt);
+                    deal.setUrl(imageUrl);
+                    deal.setAppName("rabattcorner");
+
+                    String finalName = name;
+                    if (!deals.stream().anyMatch(o -> finalName.equals(o.getName()))) {
+                        deals.add(deal);
+                        sendRequest(deal);
+                    }
+
+
+
+
+
+                } catch (Exception e) {
+                    continue;
+                }
+
+            }
+        }
+
+        //sendRequest(deal);
     }
 
     public static void sendRequest(Deal deal) {
